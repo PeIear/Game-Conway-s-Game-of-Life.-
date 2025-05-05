@@ -1,4 +1,4 @@
-# Game-Conway-s-Game-of-Life.-
+# GameConwaySGameofLife.
 Simulator of population reduction, overpopulation and fertility.
 
 Симуляция разыгрывается на двухмерной сетке клеток. Процесс создания фокусируется на срезах.
